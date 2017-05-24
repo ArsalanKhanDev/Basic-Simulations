@@ -1,3 +1,9 @@
+
+"""
+    A simulation of Monty Hall problem in python to demonstrate variable change
+    by : Arsalan Khan
+"""
+
 import random
 
 def monty_hall():
